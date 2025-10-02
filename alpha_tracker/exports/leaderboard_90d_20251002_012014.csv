@@ -1,0 +1,17 @@
+handle,category,n_signals,win_rate,mean_excess_return,sharpe_like,mean_brier,mean_clv_points,mean_pred_pnl,alpha_score
+defi_farmer,crypto,9,,0.04515194235588968,45151942.35588968,,,,3.004261495196298
+crypto_whale,crypto,18,,0.03937947494033413,2.4127385919033815,,,,0.5198050679173059
+flowwatcher,equities,0,,,,,,,0.0
+pm_whale,prediction,0,,,,,,,0.0
+totalsguru,sports,0,,,,,,,0.0
+mlplayer,sports,0,,,,,,,0.0
+sharpbettor,sports,0,,,,,,,0.0
+pm_quant,prediction,0,,,,,,,0.0
+prediction_pro,prediction,0,,,,,,,0.0
+sports_sharp,sports,0,,,,,,,0.0
+fintwit_alpha,equity,0,,,,,,,0.0
+altquanter,crypto,0,,,,,,,0.0
+options_flow,equity,0,,,,,,,0.0
+chainalpha,crypto,9,,0.0,0.0,,,,-1.1746888543712013
+finquanter,equities,3,,0.0,0.0,,,,-1.1746888543712013
+rotational,equities,3,,0.0,0.0,,,,-1.1746888543712013

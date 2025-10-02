@@ -1,0 +1,3 @@
+event_id,league,start_time,team1,team2,score1,score2
+NFL:2024-01-15:BUF-KC,NFL,2024-01-15 20:00:00,BUF,KC,24,31
+NBA:2024-01-15:LAL-BOS,NBA,2024-01-15 19:30:00,LAL,BOS,118,112

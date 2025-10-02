@@ -1,0 +1,11 @@
+platform,handle,post_id,posted_at,text,category
+x,fintwit_alpha,1,2024-01-15 09:30:00,"$AAPL strong breakout above $190. PT $195, SL $188. Adding to position here. 75% confidence on this setup.",equity
+x,crypto_whale,2,2024-01-15 10:45:00,"$SOL looking incredibly bullish. Long at $102 with 3x leverage. TP1 $115, TP2 $125, SL $95. Moon mission engaged 🚀",crypto
+x,sports_sharp,3,2024-01-15 14:00:00,"NFL: Chiefs -3.5 vs Bills tonight. Max play 5 units. KC defense elite at home, currently 8-1 ATS in primetime. Hammer it.",sports
+x,prediction_pro,4,2024-01-15 11:30:00,"Polymarket: 'Fed cuts rates by March' currently at 35%. I'm buying YES heavily here. Economic data deteriorating fast. 65% chance IMO.",prediction
+x,fintwit_alpha,5,2024-01-15 15:20:00,"$MSFT calls printing! Closed half at 100% gain. Letting rest ride to $420 target. AI narrative still strong.",equity
+x,crypto_whale,6,2024-01-15 16:00:00,"$BTC holding above 65k is bullish AF. Adding spot position here. Next leg targets 72k. Accumulate the dips.",crypto
+x,sports_sharp,7,2024-01-15 17:30:00,"NBA: Lakers/Celtics O227.5 (-110). Both teams top-10 pace, terrible perimeter defense lately. 3 units on the over.",sports
+x,options_flow,8,2024-01-15 12:15:00,"$NVDA unusual call activity detected. March $800C swept at ask for $2.5M. Smart money positioning for earnings. Following.",equity
+x,prediction_pro,9,2024-01-15 13:45:00,"Manifold markets: 'GPT-5 released by June' at 72%. This is too high. Buying NO at 72c. OpenAI moving slower than expected.",prediction
+x,defi_farmer,10,2024-01-15 18:00:00,"$ARB ecosystem plays heating up. Long ARB at $1.85, accumulating GMX and MAGIC too. 6-month hold minimum. WAGMI.",crypto
